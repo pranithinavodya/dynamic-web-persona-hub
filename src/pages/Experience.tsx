@@ -11,17 +11,17 @@ const Experience = () => {
       position: "Junior Executive E-commerce ",
       location: "Colombo, Sri Lanka",
       period: "2024 - Present",
-      description: "Led development of scalable web applications using React, Node.js, and MongoDB. Collaborated with cross-functional teams to deliver high-quality software solutions. Mentored junior developers and implemented best practices for code quality and testing.",
-      highlights: ["Team Leadership", "Full Stack Development", "Mentoring"]
+      description: "Managed end-to-end Shopify operations across brands. Led product creation, optimized platform performance, and executed data-driven e-commerce strategies. Collaborated with cross-functional teams to drive sales and improve user experience.",
+      highlights: ["Shopify", "E-commerce", "Analytics ","Collaboration"]
     },
     {
       id: 2,
-      company: "Digital Innovations LLC",
-      position: "Frontend Developer",
-      location: "New York, NY",
-      period: "2020 - 2022",
-      description: "Developed responsive web applications using React and TypeScript. Worked closely with UI/UX designers to implement pixel-perfect designs. Optimized application performance and improved user experience metrics by 40%.",
-      highlights: ["React Development", "Performance Optimization", "UI/UX Implementation"]
+      company: "Daraz",
+      position: "Junior Executive - Quality Control",
+      location: "Colombo, Sri Lanka",
+      period: "2023 - 2024",
+      description: "Ensured end-to-end process compliance in quality control operations by following department guidelines and procedures. Monitored and maintained high product standards across categories. Improved operational efficiency and consistently met daily performance targets.",
+      highlights: ["Quality Control", "Process Compliance", "Product Standards ","Performance Management"]
     },
     {
       id: 3,
