@@ -75,12 +75,12 @@ const Index = () => {
           {/* Name and Title */}
           <h1 className="text-6xl md:text-8xl font-bold text-white mb-6 animate-fade-in">
             <span className="bg-gradient-to-r from-cyan-400 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-              Your Name
+              Pranithi Navodya
             </span>
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-300 mb-8 animate-fade-in animation-delay-300">
-            Full Stack Developer & Technology Enthusiast
+            Junior E-Commerce Executive
           </p>
           
           {/* Description */}
@@ -96,7 +96,7 @@ const Index = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
             {/* LinkedIn */}
             <a 
-              href="#" 
+              href="https://www.linkedin.com/in/pranithi-navodya-8a1573209/" 
               className="group bg-gradient-to-r from-blue-600 to-blue-700 p-6 rounded-2xl hover:from-blue-500 hover:to-blue-600 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl"
             >
               <div className="flex items-center justify-center mb-4">
