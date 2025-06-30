@@ -29,8 +29,8 @@ const Experience = () => {
       position: "rainee Reservations Execcutive",
       location: "Seeduwa, Sri Lanka",
       period: "2022 - 2023",
-      description: "Built and maintained company website and internal tools. Gained experience in JavaScript, HTML, CSS, and various web frameworks. Participated in agile development processes and learned industry best practices.",
-      highlights: ["Web Development", "JavaScript", "Agile Methodology"]
+      description: "Managed end-to-end reservation operations across multiple channels including phone, email, and online platforms. Coordinated with internal teams to ensure chauffeur and fleet availability. Handled confirmations, cancellations, and modifications to deliver seamless customer service.",
+      highlights: ["Reservation Management", "Multichannel Support", "Booking Systems ", "Schedule Management]
     },
     {
       id: 4,
@@ -38,8 +38,8 @@ const Experience = () => {
       position: "Operations Assistant",
       location: "Colombo, Sri Lanka",
       period: "2022 - 2022",
-      description: "Ensured end-to-end process compliance in quality control operations by following department guidelines and procedures. Monitored and maintained high product standards across categories. Improved operational efficiency and consistently met daily performance targets.",
-      highlights: ["Quality Control", "Process Compliance", "Product Standards ","Performance Management"]
+      description: "Resolved customer inquiries and complaints to ensure satisfaction. Tracked common issues and collaborated with team to find solutions. Managed filing and mail distribution to support operations.",
+      highlights: ["Customer Service", "Complaint Resolution", "Issue Tracking ","Office Administration"]
     },
     {
       id: 5,
