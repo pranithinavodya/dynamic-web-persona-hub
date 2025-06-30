@@ -7,10 +7,10 @@ const Experience = () => {
   const experiences = [
     {
       id: 1,
-      company: "Tech Solutions Inc.",
-      position: "Senior Full Stack Developer",
-      location: "San Francisco, CA",
-      period: "2022 - Present",
+      company: "Spa Ceylon Ayurveda Wellness",
+      position: "Junior Executive E-commerce ",
+      location: "Colombo, Sri Lanka",
+      period: "2024 - Present",
       description: "Led development of scalable web applications using React, Node.js, and MongoDB. Collaborated with cross-functional teams to deliver high-quality software solutions. Mentored junior developers and implemented best practices for code quality and testing.",
       highlights: ["Team Leadership", "Full Stack Development", "Mentoring"]
     },
