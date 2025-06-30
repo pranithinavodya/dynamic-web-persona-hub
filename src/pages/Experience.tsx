@@ -25,13 +25,31 @@ const Experience = () => {
     },
     {
       id: 3,
-      company: "StartupXYZ",
-      position: "Junior Web Developer",
-      location: "Austin, TX",
-      period: "2019 - 2020",
+      company: "Explore Vacations & Ttavels (pvt) Ltd ",
+      position: "rainee Reservations Execcutive",
+      location: "Seeduwa, Sri Lanka",
+      period: "2022 - 2023",
       description: "Built and maintained company website and internal tools. Gained experience in JavaScript, HTML, CSS, and various web frameworks. Participated in agile development processes and learned industry best practices.",
       highlights: ["Web Development", "JavaScript", "Agile Methodology"]
-    }
+    },
+    {
+      id: 4,
+      company: "Commercial Leasing and Finance PLC",
+      position: "Operations Assistant",
+      location: "Colombo, Sri Lanka",
+      period: "2022 - 2022",
+      description: "Ensured end-to-end process compliance in quality control operations by following department guidelines and procedures. Monitored and maintained high product standards across categories. Improved operational efficiency and consistently met daily performance targets.",
+      highlights: ["Quality Control", "Process Compliance", "Product Standards ","Performance Management"]
+    },
+    {
+      id: 5,
+      company: "Hongkong and Shanghai Bank Coorporation",
+      position: "Data Entry Executive",
+      location: "Colombo, Sri Lanka",
+      period: "2019 - 2020",
+      description: "Ensured end-to-end process compliance in quality control operations by following department guidelines and procedures. Monitored and maintained high product standards across categories. Improved operational efficiency and consistently met daily performance targets.",
+      highlights: ["Quality Control", "Process Compliance", "Product Standards ","Performance Management"]
+    },
   ];
 
   return (
@@ -129,7 +147,7 @@ const Experience = () => {
           <div className="mt-20 text-center">
             <h2 className="text-4xl font-bold text-white mb-8">Technical Skills</h2>
             <div className="flex flex-wrap justify-center gap-4 max-w-4xl mx-auto">
-              {['E-commerce ', 'Quality Control', ' Customer Support', 'KYC & Compliance', 'Applied IT', 'Database Management'].map((skill, index) => (
+              {['E-commerce ', 'Quality Control', ' Customer Support', 'KYC & Compliance', 'Applied IT', 'Database Management','Internet Research'].map((skill, index) => (
                 <div
                   key={skill}
                   className="px-6 py-3 bg-gradient-to-r from-cyan-500 to-purple-600 text-white rounded-full font-semibold hover:from-cyan-400 hover:to-purple-500 transition-all duration-300 transform hover:scale-110 animate-fade-in"
