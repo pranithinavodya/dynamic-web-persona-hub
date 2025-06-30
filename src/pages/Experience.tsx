@@ -129,7 +129,7 @@ const Experience = () => {
           <div className="mt-20 text-center">
             <h2 className="text-4xl font-bold text-white mb-8">Technical Skills</h2>
             <div className="flex flex-wrap justify-center gap-4 max-w-4xl mx-auto">
-              {['JavaScript', 'React', 'Node.js', 'TypeScript', 'Python', 'MongoDB', 'PostgreSQL', 'AWS', 'Docker', 'Git'].map((skill, index) => (
+              {['E-commerce ', 'Quality Control', ' Customer Support', 'KYC & Compliance', 'Applied IT', 'Database Management'].map((skill, index) => (
                 <div
                   key={skill}
                   className="px-6 py-3 bg-gradient-to-r from-cyan-500 to-purple-600 text-white rounded-full font-semibold hover:from-cyan-400 hover:to-purple-500 transition-all duration-300 transform hover:scale-110 animate-fade-in"
