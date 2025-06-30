@@ -108,7 +108,7 @@ const Index = () => {
 
             {/* Email */}
             <a 
-              href="mailto:your.email@example.com" 
+              href="navodyapranithi@gmail.com" 
               className="group bg-gradient-to-r from-green-600 to-green-700 p-6 rounded-2xl hover:from-green-500 hover:to-green-600 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl"
             >
               <div className="flex items-center justify-center mb-4">
@@ -120,7 +120,7 @@ const Index = () => {
 
             {/* Phone */}
             <a 
-              href="tel:+1234567890" 
+              href="tel:+94774814081" 
               className="group bg-gradient-to-r from-purple-600 to-purple-700 p-6 rounded-2xl hover:from-purple-500 hover:to-purple-600 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl"
             >
               <div className="flex items-center justify-center mb-4">
